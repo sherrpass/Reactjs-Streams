@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "hey",
+      "description": "zo",
+      "id": 1
+    },
+    {
+      "title": "hey",
+      "description": "zo2",
+      "id": 2
+    },
+    {
+      "title": "After edit",
+      "description": "After common Refactor",
+      "id": 5
+    },
+    {
+      "title": "awd",
+      "description": "wewe",
+      "userId": "112378405131440364511",
+      "id": 6
+    }
+  ]
+}
